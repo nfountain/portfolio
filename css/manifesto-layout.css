@@ -1,5 +1,5 @@
 body {
-    max-width: 730px;
+    max-width: 700px;
     width: 100%;
     margin: auto;
     background-color: #f0f0f0;
@@ -8,7 +8,7 @@ body {
 }
 
 main {
-    background-color: #4ABDAC;
+    background-color: #50CCBA;
     margin-top: 2%;
     margin-bottom: 2%;
     padding: 1% 0 1% 0;
@@ -18,7 +18,7 @@ p {
     color: #ffffff;
     font-size: 1.25em;
     line-height: 1.3em;
-    border: 2px #4ABDAC solid;
+    border: 2px #50CCBA solid;
     margin: 1% 0;
 }
 
@@ -34,7 +34,7 @@ p {
     text-align: left;
     width: 35%;
     padding: 0 2%;
-    background-color: #3b978a;
+    background-color: #36998D;
 }
 
 .layout-1b {
@@ -56,7 +56,7 @@ p {
     text-align: right;
     width: 29%;
     padding: 0 2%;
-    background-color: #3b978a;
+    background-color: #36998D;
 }
 
 footer {
@@ -92,3 +92,10 @@ footer {
     font-size: 1em;
     padding: 1% 0;
 }
+
+.grow {
+    font-style: italic;
+    font-weight: 700;
+    color: #446625;
+}
+
