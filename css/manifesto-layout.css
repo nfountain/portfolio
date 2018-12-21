@@ -1,6 +1,6 @@
 body {
     max-width: 730px;
-    width: 70%;
+    width: 100%;
     margin: auto;
     background-color: #f0f0f0;
     font-family: 'Bitter', serif;
@@ -9,17 +9,17 @@ body {
 
 main {
     background-color: #4ABDAC;
-    margin-top: 40px;
-    margin-bottom: 40px;
-    padding: 20px 0 20px 0;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding: 1% 0 1% 0;
 }
 
 p {
-    color: rgb(255, 255, 255);
-    font-size: 24px;
-    line-height: 28px;
+    color: #ffffff;
+    font-size: 1.25em;
+    line-height: 1.3em;
     border: 2px #4ABDAC solid;
-    margin: 2px;
+    margin: 1% 0;
 }
 
 /* LAYOUT */
@@ -32,38 +32,37 @@ p {
 .layout-1a {
     float: left;
     text-align: left;
-    width: 30%;
-    padding: 2% 2% 2% 4%;
+    width: 35%;
+    padding: 0 2%;
     background-color: #3b978a;
 }
 
 .layout-1b {
     float: left;
     text-align: left;
-    width:55%;
-    padding: 2%;
-
+    width: 54%;
+    padding: 0 2%;
 }
 
 .layout-2a {
     float: left;
     text-align: right;
-    width: 55%;
-    padding: 2%;
+    width: 60%;
+    padding: 0 2%;
 }
 
 .layout-2b {
     float: left;
     text-align: right;
-    width: 30%;
-    padding: 2%;
+    width: 29%;
+    padding: 0 2%;
     background-color: #3b978a;
 }
 
 footer {
     clear: both;
-    margin: 5px;
-    padding: 5px;
+    margin: 1%;
+    padding: 1%;
     font-style: italic;
 }
 
@@ -76,7 +75,7 @@ footer {
 
 .purpose {
     font-weight: 700;
-    color: rgb(241, 61, 11);
+    color: #f13d0b;
 }
 
 .emphasize {
@@ -90,5 +89,6 @@ footer {
 
 .normal {
     color: #000000;
-    font-size: 14px;
+    font-size: 1em;
+    padding: 1% 0;
 }
